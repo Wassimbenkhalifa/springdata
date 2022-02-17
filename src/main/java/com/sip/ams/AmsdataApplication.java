@@ -8,6 +8,7 @@ public class AmsdataApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AmsdataApplication.class, args);
+		//System.out.println(Long.MAX_VALUE);
 	}
 
 }
