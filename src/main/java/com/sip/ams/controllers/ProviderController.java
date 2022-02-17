@@ -1,4 +1,4 @@
-ppackage com.sip.ams.controllers;
+package com.sip.ams.controllers;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
